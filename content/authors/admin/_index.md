@@ -33,7 +33,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/bachassD
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=DNt--nsAAAAJ
   - icon: orcid
     icon_pack: fab
@@ -42,13 +42,13 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Damien-Bachasson
   - icon: github
-    icon_pack: fab
+    icon_pack: ai
     link: https://github.com/dambach
   - icon: publons
-    icon_pack: fab
+    icon_pack: ai
     link: https://publons.com/researcher/3976256/damien-bachasson/
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.linkedin.com/in/damienbachasson/
 
   

@@ -44,9 +44,9 @@ social:
   - icon: github
     icon_pack: ai
     link: https://github.com/dambach
-  - icon: publons
-    icon_pack: ai
-    link: https://publons.com/researcher/3976256/damien-bachasson/
+  # - icon: publons
+  #   icon_pack: ai
+  #   link: https://publons.com/researcher/3976256/damien-bachasson/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/damienbachasson/

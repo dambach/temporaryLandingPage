@@ -35,9 +35,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=DNt--nsAAAAJ
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+  # - icon: orcid
+  #   icon_pack: fab
+  #   link: https://orcid.org/0000-0001-5547-3196
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Damien-Bachasson
@@ -48,7 +48,7 @@ social:
     icon_pack: ai
     link: https://publons.com/researcher/3976256/damien-bachasson/
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/damienbachasson/
 
   

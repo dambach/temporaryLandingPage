@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        Hello ! I am currently updating my website, coming back soon. In the mean time, find me on social networks and feel free to contact me regarding any of my interests.
+        Hello, I'm updating my website, I'll be back soon. In the meantime, find me on social networks and don't hesitate to contact me.
     design:
       background:
         color: black

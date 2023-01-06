@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Damien Bachasson
+title: Damien Bachasson, PhD, HDR
 # name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 'CR Inserm'
+role: 'CR Inserm (tenured researcher) UMR-S 1158'
 
 # Status emoji
 # status:
@@ -33,7 +33,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/bachassD
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=DNt--nsAAAAJ
   - icon: orcid
     icon_pack: fab
@@ -45,7 +45,7 @@ social:
     icon_pack: fab
     link: https://github.com/dambach
   - icon: publons
-    icon_pack: ai
+    icon_pack: fab
     link: https://publons.com/researcher/3976256/damien-bachasson/
   - icon: linkedin
     icon_pack: fab

@@ -7,7 +7,7 @@ title: Damien Bachasson, PhD, HDR
 superuser: true
 
 # Role/position
-role: 'CR Inserm (tenured researcher) | UMR-S 1158 (Inserm, Sorbonne University) '
+role: 'tenured Inserm researcher (CR – Associate Professor) | UMR-S 1158 (Inserm, Sorbonne University) '
 
 # Status emoji
 # status:
